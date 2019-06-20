@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------
+Total Months: 86
+Net Total: $38382578
+Average Change: $str(avg_chg)
+Greatest Increase in profits: $ 1926159 Feb-12
+Greatest Decrease in profits: $ -2196167 Sep-13
